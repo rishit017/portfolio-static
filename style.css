@@ -59,15 +59,7 @@ a {
   margin-inline: auto;
 }
 
-body {
-  min-height: 100vh;
-  background: var(--bg);
-  color: var(--text);
-  font-family: var(--font);
-  font-weight: 500;
-  line-height: 1.5;
-  scrollbar-width: none;
-}
+
 .header {
   position: fixed;
   inset: 0 0 auto;
