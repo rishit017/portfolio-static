@@ -13,14 +13,14 @@ This project is a lightweight frontend-only portfolio that showcases a little ab
 - Contact section
 - Links to GitHub, LeetCode and other profiles
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3
 
 No frameworks or JavaScript — just plain HTML and CSS.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 rishit-static-portfolio/
